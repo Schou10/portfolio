@@ -1,0 +1,50 @@
+.header {
+  background-color: rgba(40, 44, 52, 80%);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header:hover {
+  background-color: rgba(40, 44, 52, 100%);
+}
+
+.header__heading {
+  font-family: "Audiowide" sans-serif;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+.header__list {
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+}
+.header__item {
+  padding: 5px 10px;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header__item:hover {
+  background-color: #97afe1;
+  border-radius: 5px;
+}
+.header__link {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+}

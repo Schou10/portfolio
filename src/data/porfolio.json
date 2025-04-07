@@ -10,7 +10,7 @@
     "id": 2,
     "title": "Arround the US",
     "url": "./images/project2.png",
-    "description": "This is a gallary website that I created during the TripleTen bootcamp. This website is a gallary of images for users to load stored files or links of pictures to places they have been in the US. This website was my first JavaScript project and is able to store items in a .json file to store the images in the frontend.",
+    "description": "This project is made so all the elements are displayed correctly on popular screen sizes. This web page is made to be reactive based on the size of the screen. As the screen changes different media queries are applied to make changed to the different flex and grid layouts of the site and makes modifications to specific elements as well.",
     "url_site": "https://schou10.github.io/se_project_aroundtheus/",
     "url_repo": "https://github.com/Schou10/se_project_aroundtheus"
   },
@@ -18,14 +18,14 @@
     "id": 3,
     "title": "What to Wear Today App",
     "url": "./images/project3.png",
-    "description": "This is my third and first Full-stack project from my TripleTen bootcamp. In this project I used React frame work to create a dynamic frontend design and Express to handle the back end calls to my server. With this app users are able to login and create cards for different clothing items. I also used a third party api to get the actual weather for the users location. This was my favorite project because it was the first time I was able to see the full stack in action.",
+    "description": "This project tested my skills of understanding the new React concepts that I learned from TripleTen! I had a lot of fun and I thought it was so much fun being able to easily custamize the Application using different children. Implement Javascript and HTML in one document made my understanding of Software development grow farther than what I already new.",
     "url_repo": "https://github.com/Schou10/se_project_react"
   },
   {
     "id": 4,
     "title": "Final Project",
     "url": "./images/project4.png",
-    "description": "My final project for the TripleTen bootcamp was to create a full stack application that was able to handle user authentication and store data in a database. I created a website that was able to store user information and allow users to create a profile and using a third party api known as plaid to login to there bank accounts. The website would then store the users bank account information and display it on the users profile page. This was my most challenging project but also the most rewarding. Users could also see transaction history and be able to set goals. With such a short time frame I was able to create a fully functional website that was able to handle user authentication and store data in a database.",
+    "description": "Finance Tracker is a React-based web application that allows users to track their financial transactions, set savings goals, and manage their budgets efficiently. This frontend interacts with a backend server and the Plaid API to fetch real-time banking data.",
     "url_repo": "https://github.com/Schou10/finance-tracker-frontend"
   }
 

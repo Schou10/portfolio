@@ -9,9 +9,22 @@
   overflow: hidden;
 }
 
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.card__link {
+  text-decoration: none;
+  color: inherit;
+  max-width: 425px;
+}
+
 .card__title {
   margin: 10px 20px;
   color: #000;
+  font-size: 32px;
+  text-align: center;
 }
 
 .card__img {

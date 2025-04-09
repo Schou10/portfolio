@@ -1,6 +1,7 @@
 .portfolio {
   display: flex;
   flex-direction: column;
+  padding: 0 0 50px;
 }
 
 .portfolio__heading {
